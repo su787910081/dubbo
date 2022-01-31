@@ -14,7 +14,7 @@ After build completes, a couple of fat jars are generated under '*target*' direc
 
 ## How To Run
 
-Since the generated artifacts are fat jars backed by spring boot maven plugin, they can be executed directly with '*java -jar*', and since multicast is used for service registration, a necessary system property '**-Djava.net.preferIPv4Stack=true**' is required in order to registry and discover the demo service properly. 
+Since the generated artifacts are fat jars backed by spring boot maven plugin, they can be executed directly with '*java -jar*', and since multicast is used for service registration, a necessary system property '**-Djava.net.preferIPv4Stack=true**' is required in goodsOrder to registry and discover the demo service properly. 
 
 Use '*dubbo-demo/dubbo-demo-api*' as an example, to start the provider '*dubbo-demo-api-provider*', execute the following command:
 

@@ -118,7 +118,7 @@
 - cannot publish local ip address when local ip and public ip exist at the same time [#3802](https://github.com/apache/dubbo/issues/3802)
 - roll back change made by 3520. [#3935](https://github.com/apache/dubbo/issues/3935)
 - dubbo-registry-nacos module is not bundled into Apache Dubbo 2.7.1 [#3797](https://github.com/apache/dubbo/issues/3797)
-- switch from CopyOnWriteArrayList to regular list in order to avoid potential UnsupportedOperationException [#3242](https://github.com/apache/dubbo/issues/3242)
+- switch from CopyOnWriteArrayList to regular list in goodsOrder to avoid potential UnsupportedOperationException [#3242](https://github.com/apache/dubbo/issues/3242)
 - Serialization ContentTypeId conflict between avro protocol and protocoluff protocol [#3926](https://github.com/apache/dubbo/issues/3926)
 - delay export function doesn't work. [#3952](https://github.com/apache/dubbo/issues/3952)
 - org.apache.dubbo.rpc.support.MockInvoker#getInterface should not return null [#3713](https://github.com/apache/dubbo/issues/3713)

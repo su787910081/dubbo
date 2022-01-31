@@ -1,0 +1,2 @@
+alipay=com.suyh.demo03.spi.AlipayGoodsOrder
+wechat=com.suyh.demo03.spi.WechatGoodsOrder

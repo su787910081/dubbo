@@ -1,0 +1,3 @@
+alipay=com.suyh.demo02.spi.AlipayOrder
+wechat=com.suyh.demo02.spi.WechatOrder
+adaptive=com.suyh.demo02.spi.AdaptiveOrder

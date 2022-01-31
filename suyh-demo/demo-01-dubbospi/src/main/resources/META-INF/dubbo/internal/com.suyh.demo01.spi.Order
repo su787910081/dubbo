@@ -1,0 +1,2 @@
+alipay=com.suyh.demo01.spi.AlipayOrder
+wechat,default=com.suyh.demo01.spi.WechatOrder
